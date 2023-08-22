@@ -92,7 +92,7 @@ void pushbutton()
 
 ## Output  :
  ### ON:
-![img1](https://github.com/ragulmani936/EXPERIMENT--02-INTEFACING-A-DIGITAL-INPUT-TO-ARM-DEVELOPMENT-BOARD/blob/main/On.jpg)
+![img1](https://github.com/ragulmani936/EXPERIMENT--02-INTEFACING-A-DIGITAL-INPUT-TO-ARM-DEVELOPMENT-BOARD/blob/main/On.png)
  ### OFF:
  ![img2]()
  
