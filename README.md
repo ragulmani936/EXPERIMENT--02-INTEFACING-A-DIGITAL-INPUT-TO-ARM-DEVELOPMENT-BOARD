@@ -92,8 +92,8 @@ void pushbutton()
 
 ## Output  :
  ### ON:
-![img1](![On](https://github.com/ragulmani936/EXPERIMENT--02-INTEFACING-A-DIGITAL-INPUT-TO-ARM-DEVELOPMENT-BOARD/assets/94881918/13f8aadd-2f17-4e64-baf7-3351992727c1)
-)
+![On](https://github.com/ragulmani936/EXPERIMENT--02-INTEFACING-A-DIGITAL-INPUT-TO-ARM-DEVELOPMENT-BOARD/assets/94881918/edda7316-dc82-4a24-b753-700d67aca1d0)
+
  ### OFF:
 ![off](https://github.com/ragulmani936/EXPERIMENT--02-INTEFACING-A-DIGITAL-INPUT-TO-ARM-DEVELOPMENT-BOARD/assets/94881918/ee968fa0-1d25-4614-9ab0-d6d2c4fed0cb)
 
